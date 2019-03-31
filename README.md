@@ -1,19 +1,26 @@
 # Assigment 1: My profile 
 
-### My Profile:
-1)    Personal Information:
+### Personal Information:
 Name: Paranvir ‘Piranha’ Singh
+
 Student Number: s3791376
+
 Email address: s3791376@student.rmit.edu.au 
+
 Background information:
+
 -    Nationality:
 Born in Fiji, migrated to Australia in 2008 
+
 -    Culture:
 Born in Fiji but Indian decent and I am also Sikhism
+
 -    Education:
 Completed year 12 in 2018
+
 -    Languages are spoken:
 English and (Fijian Hindi) 
+
 -    Fact:
 At this current time, I have been to 8 different schools due to my family and me moving around a lot;
 Kindergarten (1)
@@ -23,13 +30,17 @@ Secondary schools (2)
 ### Interest in IT:
 Interest in IT:
 My main interest in IT are video games, methods of digital communication 
+
 When did your interest in IT start?
 My interest in it begins with me playing Need for Speed: Hot Pursuit III on one of those old desktop computers. As well as the fact my father used to be a high school IT teacher which was right next to my primary school, so after school, I would go over to his computer lab where I could play computer games on the computers.
+
 Was there an event or person sparked your interest?
 I would say the serval events triggered my interests in computers. Firstly, it begins my father who used to be an IT teacher back in Fiji and then my interest in playing computer.
+
 Why did you come to RMIT?
 I came to RMIT as I have heard that RMIT is the best university for degrees in the computing sector.
 What do you expect to learn?
+
 I expect to learn coding as well as information, data management
  how program small and complex programs.
 
@@ -39,8 +50,10 @@ Link/screenshot:
 Description of position and appeal:
 -    The details of my ideal job is an infrastructure manager where I’ll be tasked with internet cable management with a group of people, this includes planning and design infrastructure.
 -    I find this appealing as this job as a position of leadership and a high level of responsibility as I will be dealing with a lot of expensive equipment.
+
 Description of skill, qualifications and experience I have:
 -    This job will require a few qualifications such as a computer science, information technology or a related degree, I’ll 5 years of experience in relative industry or field and be able to lead a team.
+
 Plan of how to obtain important skills:
 -    My plan to obtain these important skills would try to work effectively in a team and to do doing small infrastructure projects at home such as computer networking.
 
@@ -48,14 +61,15 @@ Plan of how to obtain important skills:
 Myers-Briggs test:
 https://www.16personalities.com/profiles/121275141f8c5
 PROTAGONIST PERSONALITY (ENFJ, -A/-T)
+
 Online learning style test:
 http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=5&V=9&T=6
 Visual Learner 
+
 Another Online test:
 Online leadership test:
 https://www.mindtools.com/pages/article/newLDR_50.htm
 53-90
- 
 
 Meaning of these test results:
 All of the online tests agree and disagree on the same issues relating to my personality. They all agree that I have leadership qualities and that my feelings get the best of me.
