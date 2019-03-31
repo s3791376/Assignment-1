@@ -46,7 +46,7 @@ I expect to learn coding as well as information, data management
 
 ### Ideal Job:
 Link/screenshot:
- 
+
 Description of position and appeal:
 -    The details of my ideal job is an infrastructure manager where I’ll be tasked with internet cable management with a group of people, this includes planning and design infrastructure.
 -    I find this appealing as this job as a position of leadership and a high level of responsibility as I will be dealing with a lot of expensive equipment.
